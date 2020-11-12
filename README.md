@@ -45,15 +45,18 @@ modify_review.csv will be created after running the last cell.
 `import random`
 
 **Data Visualization**
-<img src="product_review.png" width="500px" />
+
+<img src="product_review.png" width="800px" />
 
 **Wordcloud**
 
 1. Positive review
-   <img src="wordcloud_positive.png" width="500px" />
+
+   <img src="wordcloud_positive.png" width="600px" />
 
 2. Negative review
-   <img src="wordcloud_negative.png" width="500px" />
+
+   <img src="wordcloud_negative.png" width="600px" />
 
 ## Steps for Review sentiment analysis - API
 
