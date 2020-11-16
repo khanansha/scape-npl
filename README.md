@@ -69,4 +69,5 @@ modify_review.csv will be created after running the last cell.
 1. `GET: http://127.0.0.1:5000/?month=2&year=2011`
 
 Attaching screenshot for `GET` request
-<img src="respone.png">
+
+<img src="respone.png" width="800px">
